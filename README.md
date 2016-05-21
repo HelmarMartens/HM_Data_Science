@@ -1,2 +1,2 @@
 # HM_Data_Science
-Holds Data Science projects. 
+Holds all my Data Science projects. 
